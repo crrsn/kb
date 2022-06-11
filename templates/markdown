@@ -1,0 +1,8 @@
+MARKDOWN = "rich"
+STYLE = "paraiso-dark"
+JUSTIFY = "full"
+HYPERLINKS = false
+PAGER = true
+PAGER_COLOR = true
+PADDING_VERTICAL = 0
+PADDING_HORIZONTAL = 4
